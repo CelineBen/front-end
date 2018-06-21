@@ -1,4 +1,7 @@
 Basic web application created with CreateReactApp Typescript (https://github.com/wmonk/create-react-app-typescript)
+Use UsersService (./src/services/users-service.ts) as a Mock service. You can simulate error:
+  - by entering \*@mynewknow.com as a username
+  - a password not matching: 8 characters, 1 letter and 1 numeric  
 MaterialUI is used as a UI library (feel free to change)
 MaterialUI is using JSS as a CSS library (feel free to change)
 
